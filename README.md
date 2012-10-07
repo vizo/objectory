@@ -2,3 +2,5 @@
 
 **Objectory** is a library that provide typed, checked environment to model, save and query data persisted on MongoDb.    
 Sample blog application is in **example\blog.dart**. There are also some tests in directory **test**
+
+This is dynamic branch, using noSuchMethod to map json maps to objects.
